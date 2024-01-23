@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background: #292929;
+    font-family: 'Roboto', sans-serif;
+}
+
+input{
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    background: #FFF;
+    padding: 3px 5px;
+    box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.1);
+    width: 145px;
+    height: 1.8rem;
+    margin-top: 0.5rem;
+}
+
+select{
+    border-radius: 5px;
+    width: 140px;
+    height: 1.8rem;
+    margin-top: 0.5rem;
+    background: #FFF;
+    padding: 3px 5px;
+    font-weight: bold;
+
+}
+
+button{
+    border: none;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    padding: 3px 5px;
+    width: 130px;
+    height: 1.6rem;
+    margin-top: 1.5rem;
+    cursor: pointer;
+}

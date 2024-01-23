@@ -1,0 +1,38 @@
+section{
+    background: #000;
+    width: 60rem;
+    height: 7rem;
+    border-radius: 0.5rem;
+    margin-top: -3.5rem;
+    margin-bottom: 1.5rem;
+    padding: 1.6rem;
+
+  
+    justify-content: center;
+}
+.input-date{
+    margin-left: 2rem;
+    display: flex;
+    gap: 3.2rem;
+    color: #FFF;
+}
+
+.container-input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.span-green{
+    color: green;
+}
+
+.span-red{
+    color: red;
+}
+
+.info-values p{
+    margin-bottom: 0.5rem;
+}
+
